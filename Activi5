@@ -1,0 +1,4898 @@
+/* Home - Desktop */
+
+position: relative;
+width: 1440px;
+height: 5740px;
+
+/* Primary / White */
+background: #FFFFFF;
+
+
+/* Footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 96px;
+gap: 64px;
+
+position: absolute;
+width: 1440px;
+height: 725px;
+left: 0px;
+top: 5015px;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Text+Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 33px;
+
+width: 942px;
+height: 200px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Img */
+
+width: 200px;
+height: 200px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+
+
+/* Image 1 */
+
+position: absolute;
+width: 204px;
+height: 272px;
+left: -2px;
+top: -36px;
+
+background: url(Image.jpg);
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 709px;
+height: 200px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vill du ha rätt trafik till din webbplats? */
+
+width: 709px;
+height: 144px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 72px;
+/* or 100% */
+letter-spacing: -1px;
+
+/* Primary / White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Kontakta mig på gunnar.bark@jajja.com eller 0730-28 98 99 */
+
+width: 636px;
+height: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+/* Primary / White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 96px;
+
+width: 592px;
+height: 92px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Item 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 146px;
+height: 92px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Stockholm */
+
+width: 87px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Primary / White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vasagatan 28 111 20 Stockholm */
+
+width: 146px;
+height: 56px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+/* Primary / White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Item 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 127px;
+height: 92px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Karlstad */
+
+width: 68px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Primary / White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Tynäsgatan 10 652 16 Karlstad */
+
+width: 127px;
+height: 56px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+/* Primary / White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Item 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 127px;
+height: 92px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Dubai */
+
+width: 47px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Primary / White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Tynäsgatan 10 652 16 Karlstad */
+
+width: 127px;
+height: 56px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+/* Primary / White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line */
+
+width: 1248px;
+height: 1px;
+
+/* Primary / White */
+background: #FFFFFF;
+opacity: 0.24;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* © 2021 Jajja Media Group AB Den här sidan innehåller cookies. */
+
+width: 235px;
+height: 48px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+/* Primary / White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Articles */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 96px;
+gap: 48px;
+
+position: absolute;
+width: 1440px;
+height: 1468.01px;
+left: 0px;
+top: 3547px;
+
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 436px;
+height: 116px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Aktuellt */
+
+width: 61px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Allt från Jajja! */
+
+width: 436px;
+height: 72px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 72px;
+/* identical to box height, or 100% */
+letter-spacing: -1px;
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Nav */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 482px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Active */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 24px;
+gap: 10px;
+
+width: 76px;
+height: 48px;
+
+/* Primary / Pink */
+background: #FC0E52;
+border-radius: 48px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 28px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+text-align: center;
+
+/* Primary / White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Active */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 24px;
+gap: 10px;
+
+width: 110px;
+height: 48px;
+
+/* Gray / 50 */
+background: #F5F5F6;
+border-radius: 48px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 62px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+text-align: center;
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Active */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 24px;
+gap: 10px;
+
+width: 118px;
+height: 48px;
+
+/* Gray / 50 */
+background: #F5F5F6;
+border-radius: 48px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 70px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+text-align: center;
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 24px;
+gap: 10px;
+
+width: 106px;
+height: 48px;
+
+/* Gray / 50 */
+background: #F5F5F6;
+border-radius: 48px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 58px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+text-align: center;
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Articles */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 1248px;
+height: 1016.01px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Row 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 1248px;
+height: 492px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 394.67px;
+height: 492px;
+
+/* Primary / White */
+background: #FFFFFF;
+/* below / md */
+box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.08);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Img */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 394.67px;
+height: 296px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* JAJJA_2020_016 1 */
+
+width: 394.67px;
+height: 296px;
+
+background: url(JAJJA_2020_016.jpg);
+border-radius: 4px 4px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 4px;
+
+width: 394.67px;
+height: 196px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Bolaget */
+
+width: 346.67px;
+height: 24px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Möt vårt produktions team */
+
+width: 346.67px;
+height: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Donec massa libero, condimentum pretium venenatis sit amet. Integer sit amet luctus. */
+
+width: 346.67px;
+height: 84px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Item 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 394.67px;
+height: 492px;
+
+/* Primary / White */
+background: #FFFFFF;
+/* below / md */
+box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.08);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Img */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 394.67px;
+height: 296px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* JAJJA_2020_001 2 */
+
+width: 394.67px;
+height: 296px;
+
+background: url(JAJJA_2020_001.jpg);
+border-radius: 4px 4px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 4px;
+
+width: 394.67px;
+height: 196px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Bolaget */
+
+width: 346.67px;
+height: 24px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Möt vårt produktions team */
+
+width: 346.67px;
+height: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Donec massa libero, condimentum pretium venenatis sit amet. Integer sit amet luctus. */
+
+width: 346.67px;
+height: 84px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Item 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 394.67px;
+height: 492px;
+
+/* Primary / White */
+background: #FFFFFF;
+/* below / md */
+box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.08);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Img */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 394.67px;
+height: 296px;
+
+border-radius: 4px 4px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* JAJJA_2020_002 2 */
+
+width: 394.67px;
+height: 296px;
+
+background: url(JAJJA_2020_002.jpg);
+border-radius: 4px 4px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 4px;
+
+width: 394.67px;
+height: 196px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Bolaget */
+
+width: 346.67px;
+height: 24px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Möt vårt produktions team */
+
+width: 346.67px;
+height: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Donec massa libero, condimentum pretium venenatis sit amet. Integer sit amet luctus. */
+
+width: 346.67px;
+height: 84px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Row 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 1248px;
+height: 492px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Item 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 394.67px;
+height: 492px;
+
+/* Primary / White */
+background: #FFFFFF;
+/* below / md */
+box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.08);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Img */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 394.67px;
+height: 296px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* JAJJA_2020_016 1 */
+
+width: 394.67px;
+height: 296px;
+
+background: url(JAJJA_2020_016.jpg);
+border-radius: 4px 4px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 4px;
+
+width: 394.67px;
+height: 196px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Bolaget */
+
+width: 346.67px;
+height: 24px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Möt vårt produktions team */
+
+width: 346.67px;
+height: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Donec massa libero, condimentum pretium venenatis sit amet. Integer sit amet luctus. */
+
+width: 346.67px;
+height: 84px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Item 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 394.67px;
+height: 492px;
+
+/* Primary / White */
+background: #FFFFFF;
+/* below / md */
+box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.08);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Img */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 394.67px;
+height: 296px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* JAJJA_2020_001 2 */
+
+width: 394.67px;
+height: 296px;
+
+background: url(JAJJA_2020_001.jpg);
+border-radius: 4px 4px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 4px;
+
+width: 394.67px;
+height: 196px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Bolaget */
+
+width: 346.67px;
+height: 24px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Möt vårt produktions team */
+
+width: 346.67px;
+height: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Donec massa libero, condimentum pretium venenatis sit amet. Integer sit amet luctus. */
+
+width: 346.67px;
+height: 84px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Item 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 394.67px;
+height: 492px;
+
+/* Primary / White */
+background: #FFFFFF;
+/* below / md */
+box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.08);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Img */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 394.67px;
+height: 296px;
+
+border-radius: 4px 4px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* JAJJA_2020_002 2 */
+
+width: 394.67px;
+height: 296px;
+
+background: url(JAJJA_2020_002.jpg);
+border-radius: 4px 4px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 4px;
+
+width: 394.67px;
+height: 196px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Bolaget */
+
+width: 346.67px;
+height: 24px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Möt vårt produktions team */
+
+width: 346.67px;
+height: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Donec massa libero, condimentum pretium venenatis sit amet. Integer sit amet luctus. */
+
+width: 346.67px;
+height: 84px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Careers */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 1440px;
+height: 662.5px;
+left: 0px;
+top: 2884px;
+
+
+
+/* Img */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 720px;
+height: 662.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* JAJJA_2020_014 1 */
+
+width: 720px;
+height: 662.5px;
+
+background: url(fotojeanettedahlstrom-5840.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 96px;
+gap: 48px;
+
+width: 720px;
+height: 662.5px;
+
+background: rgba(244, 234, 228, 0.4);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 624px;
+height: 188px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Häng med! */
+
+width: 88px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Väx och må bra med oss */
+
+width: 624px;
+height: 144px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 72px;
+/* or 100% */
+letter-spacing: -1px;
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vi vill att alla människor och företag ska blomstra. Vår ambition är att alla som jobbar på Jajja ska må bra, utvecklas och lyckas. Samma saker gäller alla som vi kommer i kontakt med. Vi blir riktigt lyckliga av att vara med och hjälpa våra kunder att växa. */
+
+width: 422px;
+height: 228px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+/* or 140% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Customers */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 96px;
+gap: 48px;
+
+position: absolute;
+width: 1439px;
+height: 848px;
+left: 0px;
+top: 2128px;
+
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 1247px;
+height: 204px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Kunder */
+
+width: 57px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ett urval av kunder som vi jobbar eller har jobbat med */
+
+width: 1247px;
+height: 154px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 72px;
+/* or 100% */
+letter-spacing: -1px;
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 219px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon/Outline/cheveron-right */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 37.5%;
+right: 4.17%;
+top: 79.17%;
+bottom: -8.33%;
+
+/* Primary / White */
+border: 2px solid #FFFFFF;
+transform: rotate(-90deg);
+
+
+/* Läs mer om våra kunder */
+
+width: 195px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Logos */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 1247px;
+height: 328px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Row 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 1247px;
+height: 164px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 287.75px;
+height: 164px;
+
+/* Primary / White */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Google_2015_logo 1 */
+
+width: 141.91px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.19%;
+right: 57.44%;
+top: 27.17%;
+bottom: 24.61%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.84%;
+right: 39.8%;
+top: 27.17%;
+bottom: 24.61%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.48%;
+right: 22.89%;
+top: 27.17%;
+bottom: 3.01%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.23%;
+right: 17.28%;
+top: 3.26%;
+bottom: 26.09%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 84.22%;
+right: 0.74%;
+top: 27.16%;
+bottom: 24.62%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.13%;
+right: 75.19%;
+top: 0.51%;
+bottom: 24.62%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Item 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 287.75px;
+height: 164px;
+
+/* Primary / White */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Netflix x5F Logo x5F PMS 3 */
+
+width: 141.94px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 25.34%;
+right: 25.34%;
+top: 37.8%;
+bottom: 37.8%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25.34%;
+right: 25.34%;
+top: 37.8%;
+bottom: 37.8%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Item 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 287.75px;
+height: 164px;
+
+/* Primary / White */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame */
+
+width: 160.02px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: -0.02%;
+top: 0%;
+bottom: 0.06%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 70.02%;
+top: 0%;
+bottom: 0.06%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 70.02%;
+top: 0%;
+bottom: 0.06%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 70.02%;
+top: 0%;
+bottom: 0.06%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Group */
+
+position: absolute;
+left: 34.54%;
+right: -0.02%;
+top: 22.99%;
+bottom: 16.42%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 34.54%;
+right: 3.66%;
+top: 22.99%;
+bottom: 16.42%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 34.54%;
+right: 54.73%;
+top: 26.69%;
+bottom: 26.21%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.17%;
+right: 43.05%;
+top: 37.61%;
+bottom: 16.6%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 57.66%;
+right: 31.21%;
+top: 37.61%;
+bottom: 26.03%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.02%;
+right: 24.34%;
+top: 29.13%;
+bottom: 26.27%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.43%;
+right: 3.66%;
+top: 25.07%;
+bottom: 16.42%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.74%;
+right: 20.63%;
+top: 38.33%;
+bottom: 26.87%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.38%;
+right: 20.29%;
+top: 22.99%;
+bottom: 65.91%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Group */
+
+position: absolute;
+left: 96.74%;
+right: -0.02%;
+top: 38.27%;
+bottom: 50.81%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 96.74%;
+right: -0.02%;
+top: 38.27%;
+bottom: 50.81%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Item 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 287.75px;
+height: 164px;
+
+/* Primary / White */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* 1 1 */
+
+width: 138.29px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* logo0 */
+
+position: absolute;
+left: 50.22%;
+right: 32.69%;
+top: 26.39%;
+bottom: 2.85%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* logo1 */
+
+position: absolute;
+left: 69.3%;
+right: 26.72%;
+top: 2.59%;
+bottom: 4.74%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* logo2 */
+
+position: absolute;
+left: 75.58%;
+right: 9.91%;
+top: 28.27%;
+bottom: 2.85%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* logo3 */
+
+position: absolute;
+left: 33.81%;
+right: 49.78%;
+top: 28.27%;
+bottom: 4.74%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* logo4 */
+
+position: absolute;
+left: 17.97%;
+right: 66.17%;
+top: 26.39%;
+bottom: 2.85%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* logo5 */
+
+position: absolute;
+left: 0.4%;
+right: 82.03%;
+top: 0.73%;
+bottom: 4.74%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* logo6 */
+
+position: absolute;
+left: 92.19%;
+right: 0.43%;
+top: 10.18%;
+bottom: 2.85%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Row 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 1247px;
+height: 164px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Item 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 287.75px;
+height: 164px;
+
+/* Primary / White */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* airbnb-2 1 */
+
+width: 80px;
+height: 80px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.09%;
+right: 10.1%;
+top: 4.5%;
+bottom: 5.16%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.09%;
+right: 10.1%;
+top: 4.5%;
+bottom: 5.16%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Item 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 287.75px;
+height: 164px;
+
+/* Primary / White */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 5 */
+
+width: 109.9px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.9%;
+right: 58.79%;
+top: 37.8%;
+bottom: 37.8%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 42.66%;
+right: 47.1%;
+top: 37.81%;
+bottom: 37.81%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.65%;
+right: 36.73%;
+top: 43.97%;
+bottom: 37.84%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.31%;
+right: 30.9%;
+top: 44.18%;
+bottom: 38.22%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Item 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 287.75px;
+height: 164px;
+
+/* Primary / White */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* H&M-Logo 1 */
+
+width: 72.76px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* layer1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* g45263 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* path45125 */
+
+position: absolute;
+left: 47.45%;
+right: 0%;
+top: 0.22%;
+bottom: 0%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* path45127 */
+
+position: absolute;
+left: 0%;
+right: 51.91%;
+top: 0%;
+bottom: 0%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* path45129 */
+
+position: absolute;
+left: 34.52%;
+right: 53.95%;
+top: 56.95%;
+bottom: 14.79%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Item 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 287.75px;
+height: 164px;
+
+/* Primary / White */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 181.96px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: -0.08%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 92.07%;
+top: 1.82%;
+bottom: 1.82%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.77%;
+right: 79.72%;
+top: 1.74%;
+bottom: 1.74%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.85%;
+right: 67.4%;
+top: 0%;
+bottom: -0.08%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.38%;
+right: 55.38%;
+top: 1.82%;
+bottom: 1.82%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.02%;
+right: 41.69%;
+top: 1.82%;
+bottom: 1.74%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.48%;
+right: 27.39%;
+top: 0%;
+bottom: -0.08%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 75.68%;
+right: 13.19%;
+top: 0%;
+bottom: -0.08%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.62%;
+right: 0%;
+top: 1.82%;
+bottom: 1.74%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Service Section */
+
+position: absolute;
+width: 1440px;
+height: 1152px;
+left: 0px;
+top: 976px;
+
+
+
+/* Base 1 */
+
+position: absolute;
+width: 1440px;
+height: 788px;
+left: 0px;
+top: 976px;
+
+background: rgba(244, 234, 228, 0.4);
+
+
+/* Base 2 */
+
+position: absolute;
+width: 1440px;
+height: 364px;
+left: 0px;
+top: 1764px;
+
+/* Primary / Pink */
+background: #FC0E52;
+
+
+/* Link 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 149px;
+height: 28px;
+left: 96px;
+top: 2020px;
+
+
+
+/* Icon/Outline/cheveron-right */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 37.5%;
+right: 4.17%;
+top: 79.17%;
+bottom: -8.33%;
+
+/* Primary / White */
+border: 2px solid #FFFFFF;
+transform: rotate(-90deg);
+
+
+/* Så här jobbar vi */
+
+width: 125px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Primary / White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Organisk och köpt trafik kompletterar varandra */
+
+position: absolute;
+width: 1248px;
+height: 60px;
+left: 96px;
+top: 1876px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 60px;
+/* identical to box height, or 100% */
+letter-spacing: -1px;
+
+/* Primary / White */
+color: #FFFFFF;
+
+
+
+/* Service Section */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 48px;
+
+position: absolute;
+width: 1248px;
+height: 732px;
+left: 96px;
+top: 1072px;
+
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 1248px;
+height: 188px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Så här jobbar vi */
+
+width: 1248px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Med hjälp av SEO, SEM och SMA får du rätt trafik till din webbplats */
+
+width: 1248px;
+height: 144px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 72px;
+/* or 100% */
+letter-spacing: -1px;
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 1248px;
+height: 496px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* SEO */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 48px;
+gap: 24px;
+
+width: 394.67px;
+height: 496px;
+
+/* Primary / White */
+background: #FFFFFF;
+/* below / md */
+box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.08);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Img */
+
+width: 96px;
+height: 96px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 48px;
+top: 48px;
+
+/* Orange / 100 */
+background: #FFECE2;
+
+
+/* Group 15 */
+
+position: absolute;
+width: 48px;
+height: 52.32px;
+left: 73px;
+top: 70.41px;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 37.65px;
+height: 37.65px;
+left: 83.35px;
+top: 70.41px;
+
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 37.65px;
+height: 37.65px;
+left: 83.35px;
+top: 70.41px;
+
+/* Red / 200 */
+background: #FFC8C8;
+
+
+/* Donut_2 */
+
+position: absolute;
+width: 20.7px;
+height: 10.61px;
+left: 110.65px;
+top: 78.88px;
+
+/* Red / 500 */
+background: #FF3A3A;
+transform: rotate(89.71deg);
+
+
+/* Rectangle 49 */
+
+position: absolute;
+width: 11.29px;
+height: 15.88px;
+left: 83.52px;
+top: 103.35px;
+
+/* Red / 400 */
+background: #FF7979;
+transform: rotate(41.48deg);
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 322.67px;
+height: 280px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* SEO */
+
+width: 89px;
+height: 48px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+/* identical to box height, or 100% */
+letter-spacing: -0.8px;
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Din målgrupp måste hitta din webbplats på Google om du ska få rätt resultat */
+
+width: 298.67px;
+height: 84px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+/* or 140% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 322.67px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon/Outline/cheveron-right */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 37.5%;
+right: 4.17%;
+top: 79.17%;
+bottom: -8.33%;
+
+/* Gray / 900 */
+border: 2px solid #0B1118;
+transform: rotate(-90deg);
+
+
+/* Teknisk optimerad sajt */
+
+width: 298.67px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 322.67px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Icon/Outline/cheveron-right */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 37.5%;
+right: 4.17%;
+top: 79.17%;
+bottom: -8.33%;
+
+/* Gray / 900 */
+border: 2px solid #0B1118;
+transform: rotate(-90deg);
+
+
+/* Innehåll på sajten */
+
+width: 298.67px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 322.67px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Icon/Outline/cheveron-right */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 37.5%;
+right: 4.17%;
+top: 79.17%;
+bottom: -8.33%;
+
+/* Gray / 900 */
+border: 2px solid #0B1118;
+transform: rotate(-90deg);
+
+
+/* Länkkraft */
+
+width: 298.67px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* SEM */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 48px;
+gap: 24px;
+
+width: 394.67px;
+height: 496px;
+
+/* Primary / White */
+background: #FFFFFF;
+/* below / md */
+box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.08);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Img */
+
+width: 96px;
+height: 96px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 48px;
+top: 48px;
+
+/* Orange / 100 */
+background: #FFECE2;
+
+
+/* Group 19 */
+
+position: absolute;
+width: 48px;
+height: 49.09px;
+left: 72.33px;
+top: 72px;
+
+
+
+/* Rectangle 51 */
+
+position: absolute;
+width: 7.64px;
+height: 49.09px;
+left: 72.33px;
+top: 72px;
+
+/* Red / 200 */
+background: #FFC8C8;
+border-radius: 2px;
+
+
+/* Rectangle 52 */
+
+position: absolute;
+width: 34.91px;
+height: 49.09px;
+left: 85.42px;
+top: 72px;
+
+/* Red / 200 */
+background: #FFC8C8;
+border-radius: 2px;
+
+
+/* Mask Group */
+
+position: absolute;
+width: 34.91px;
+height: 49.09px;
+left: 85.42px;
+top: 72px;
+
+
+
+/* Rectangle 53 */
+
+position: absolute;
+width: 34.91px;
+height: 49.09px;
+left: 85.42px;
+top: 72px;
+
+/* Pink / 200 */
+background: #FEBBCF;
+border-radius: 2px;
+
+
+/* Polygon 1 */
+
+position: absolute;
+width: 51.24px;
+height: 51.24px;
+left: 113.73px;
+top: 40.1px;
+
+/* Red / 300 */
+background: #FFB8B8;
+transform: rotate(41.61deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 29.11%;
+right: 64.81%;
+top: 19.13%;
+bottom: 77.57%;
+
+/* Red / 500 */
+background: #FF3A3A;
+transform: rotate(-180deg);
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 322.67px;
+height: 280px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* SEM */
+
+width: 98px;
+height: 48px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+/* identical to box height, or 100% */
+letter-spacing: -0.8px;
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lönsam och effektiv annonsering med Google Ads ger dig rätt resultat */
+
+width: 298.67px;
+height: 84px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+/* or 140% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 322.67px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon/Outline/cheveron-right */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 37.5%;
+right: 4.17%;
+top: 79.17%;
+bottom: -8.33%;
+
+/* Gray / 900 */
+border: 2px solid #0B1118;
+transform: rotate(-90deg);
+
+
+/* Google Ads Sök */
+
+width: 298.67px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 322.67px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Icon/Outline/cheveron-right */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 37.5%;
+right: 4.17%;
+top: 79.17%;
+bottom: -8.33%;
+
+/* Gray / 900 */
+border: 2px solid #0B1118;
+transform: rotate(-90deg);
+
+
+/* Google Ads Display */
+
+width: 298.67px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 322.67px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Icon/Outline/cheveron-right */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 37.5%;
+right: 4.17%;
+top: 79.17%;
+bottom: -8.33%;
+
+/* Gray / 900 */
+border: 2px solid #0B1118;
+transform: rotate(-90deg);
+
+
+/* Goolge Ads Shopping */
+
+width: 298.67px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* SMA */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 48px;
+gap: 24px;
+
+width: 394.67px;
+height: 496px;
+
+/* Primary / White */
+background: #FFFFFF;
+/* below / md */
+box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.08);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Img */
+
+width: 96px;
+height: 96px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 96px;
+height: 96px;
+left: 48px;
+top: 48px;
+
+/* Orange / 100 */
+background: #FFECE2;
+
+
+/* Group 17 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 72.67px;
+top: 73px;
+
+
+
+/* Rectangle 50 */
+
+position: absolute;
+width: 48px;
+height: 32.68px;
+left: 72.67px;
+top: 73px;
+
+/* Red / 200 */
+background: #FFC8C8;
+border-radius: 2px;
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 72.67px;
+top: 73px;
+
+/* Red / 300 */
+background: #FFB8B8;
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 8.17px;
+height: 8.17px;
+left: 80.84px;
+top: 86.28px;
+
+/* Red / 500 */
+background: #FF3A3A;
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 8.17px;
+height: 8.17px;
+left: 93.09px;
+top: 86.28px;
+
+/* Red / 500 */
+background: #FF3A3A;
+
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 8.17px;
+height: 8.17px;
+left: 105.35px;
+top: 86.28px;
+
+/* Red / 500 */
+background: #FF3A3A;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 322.67px;
+height: 280px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* SMA */
+
+width: 103px;
+height: 48px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+/* identical to box height, or 100% */
+letter-spacing: -0.8px;
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Annonsera i sociala medier med rätt verktyg för att nå din målgrupp och få resultat */
+
+width: 298.67px;
+height: 84px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+/* or 140% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 322.67px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon/Outline/cheveron-right */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 37.5%;
+right: 4.17%;
+top: 79.17%;
+bottom: -8.33%;
+
+/* Gray / 900 */
+border: 2px solid #0B1118;
+transform: rotate(-90deg);
+
+
+/* Facebook */
+
+width: 298.67px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 322.67px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Icon/Outline/cheveron-right */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 37.5%;
+right: 4.17%;
+top: 79.17%;
+bottom: -8.33%;
+
+/* Gray / 900 */
+border: 2px solid #0B1118;
+transform: rotate(-90deg);
+
+
+/* Instagram */
+
+width: 298.67px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 322.67px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Icon/Outline/cheveron-right */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 37.5%;
+right: 4.17%;
+top: 79.17%;
+bottom: -8.33%;
+
+/* Gray / 900 */
+border: 2px solid #0B1118;
+transform: rotate(-90deg);
+
+
+/* LinkedIn */
+
+width: 298.67px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Shape Pink */
+
+position: absolute;
+width: 171.14px;
+height: 126px;
+left: 685px;
+top: 149px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 88.82%;
+right: -77.63%;
+top: 0%;
+bottom: 0%;
+
+/* Pink / 400 */
+background: #FD5B89;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 60.18%;
+right: 0%;
+top: 9.52%;
+bottom: 31.82%;
+
+/* Pink / 300 */
+background: #FEA8C1;
+
+
+/* Shape Container */
+
+position: absolute;
+width: 704px;
+height: 928px;
+left: 736px;
+top: 0px;
+
+
+
+/* Mask */
+
+position: absolute;
+width: 704px;
+height: 928px;
+left: 736px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 0px;
+
+
+/* Shape */
+
+position: absolute;
+width: 1036px;
+height: 1036px;
+left: 827px;
+top: -116px;
+
+/* Orange / 100 */
+background: #FFECE2;
+
+
+/* Hero Section */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 1248px;
+height: 608px;
+left: 96px;
+top: 184px;
+
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 48px;
+
+width: 608px;
+height: 284px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 608px;
+height: 188px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Hallå där 👋 */
+
+width: 608px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vi driver rätt trafik till din webbplats. */
+
+width: 608px;
+height: 144px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 72px;
+/* or 100% */
+letter-spacing: -1px;
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 24px;
+gap: 10px;
+
+width: 113px;
+height: 48px;
+
+/* Primary / Pink */
+background: #FC0E52;
+border-radius: 40px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 65px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+text-align: center;
+
+/* Primary / White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Img */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 608px;
+height: 608px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Rectangle 18 */
+
+display: none;
+width: 299px;
+height: 608px;
+
+background: url(image.png);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Header */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 48px 96px;
+gap: 72px;
+
+position: absolute;
+width: 1440px;
+height: 144px;
+left: 0px;
+top: 0px;
+
+
+
+/* Logo */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 403px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Primary / Logo Gray */
+
+width: 89.32px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Jajja Logo */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Gray / 900 */
+background: #0B1118;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.11%;
+right: 0%;
+top: 6.55%;
+bottom: 21.98%;
+
+background: #0D3862;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.29%;
+right: 61.46%;
+top: 18.52%;
+bottom: 24.23%;
+
+background: #0D3862;
+
+
+/* Vector */
+
+position: absolute;
+left: 63.59%;
+right: 12.19%;
+top: 21.98%;
+bottom: 20.77%;
+
+background: #0D3862;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.83%;
+right: 38.08%;
+top: 8.14%;
+bottom: 77.55%;
+
+background: #0D3862;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.27%;
+right: 38.33%;
+top: 27.5%;
+bottom: 0%;
+
+background: #0D3862;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.56%;
+right: 87.35%;
+top: 3.46%;
+bottom: 82.23%;
+
+background: #0D3862;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 87.56%;
+top: 22.73%;
+bottom: 5.33%;
+
+background: #0D3862;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.1%;
+right: 49.81%;
+top: 0%;
+bottom: 85.69%;
+
+background: #0D3862;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.54%;
+right: 50.06%;
+top: 19.27%;
+bottom: 8.23%;
+
+background: #0D3862;
+
+
+/* Nav */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 773px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Item 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 24px;
+gap: 10px;
+
+width: 114px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Tjänster */
+
+width: 66px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 24px;
+gap: 10px;
+
+width: 105px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Kunder */
+
+width: 57px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 24px;
+gap: 10px;
+
+width: 111px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Nyheter */
+
+width: 63px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 24px;
+gap: 10px;
+
+width: 102px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Karriär */
+
+width: 54px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 24px;
+gap: 10px;
+
+width: 110px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Om oss */
+
+width: 62px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Gray / 900 */
+color: #0B1118;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Item 5 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 111px;
+height: 48px;
+
+border-radius: 48px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 24px;
+gap: 10px;
+
+width: 111px;
+height: 48px;
+
+/* Gray / 900 */
+background: #0B1118;
+border-radius: 40px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 63px;
+height: 28px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+text-align: center;
+
+/* Primary / White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
